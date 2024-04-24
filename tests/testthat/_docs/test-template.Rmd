@@ -1,0 +1,14 @@
+---
+title: "My Report"
+output: html_document
+---
+
+# My Report
+
+Here is an example rmd file to be rendered by the app user.
+
+```{r}
+1 + 1
+```
+
+# Plots
